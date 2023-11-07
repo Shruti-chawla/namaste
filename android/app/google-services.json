@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "781835457647",
+    "project_id": "namaste-bharat-379d3",
+    "storage_bucket": "namaste-bharat-379d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781835457647:android:d07ca1bc44664e6346a99a",
+        "android_client_info": {
+          "package_name": "com.example.con_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8l8NPfjg51rE9dBsAQjUF-4S3ufxnDZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781835457647:android:fa98e129ad0e89e346a99a",
+        "android_client_info": {
+          "package_name": "com.example.namaste_bharat1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8l8NPfjg51rE9dBsAQjUF-4S3ufxnDZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
